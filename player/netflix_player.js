@@ -22,7 +22,7 @@ const netflix = {
             { // ep1 
                 name: 'Episode 1',
                 sinopse: 'Hodgins busca Violet no hospital. Mais tarde, eles conhecem os parentes de Gilbert e ela recebe de Hodgins uma proposta de trabalho.',
-                videoUrl: 'https://lh3.googleusercontent.com/Q6zVgqlS3UiGKvG_niriU_xcFMRdF1M61FrQD3As5StvN1BnUYXeXKJhdw5r3LIFXj8U4PikK2XMs-R4eNyHoGf89zBVtrFuEJAAHnYGblqv_LYD3v1n9d8WFFiID2jacnj6_Dta7g',
+                videoUrl: 'https://r8---sn-oxunxg8pjvn-bg0d.googlevideo.com/videoplayback?expire=1591625984&ei=gNjdXoPYIbz0zLUPqMK32AI&ip=2804:14c:aa:8a7f:dc99:2a67:243:63c5&id=fe42c9a811899659&itag=18&source=blogger&mh=H2&mm=31&mn=sn-oxunxg8pjvn-bg0d&ms=au&mv=m&mvi=7&pl=44&susc=bl&mime=video/mp4&dur=1438.406&lmt=1564801484963406&mt=1591597117&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRgIhAK1XvUyIstrEZ1bJxEdCvyptbUQw-KKCLCVZoKOdK1avAiEA4JOCD9jOyo8rVGHAN6okAduJje_FGEB6HGKqyjQGo2c%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgdUMFGTs1AYEpSyyS_KzEKLLlQK8vlcrk_6Rt25tPGeECIAmG_sL18-hGHRL23X7gqvnEzZ068G9fIyAp1O1Aczt8&cpn=2QwBcdJObCa669Bc&c=WEB_EMBEDDED_PLAYER&cver=20200605',
                 image: 'https://i.imgur.com/ly9oBsh.jpg',
                 progress: 0,
                 duration: 0,
